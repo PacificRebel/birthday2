@@ -9,7 +9,7 @@ const SecondPage = () => (
     <SEO title="Page two" />
     <br></br>
     <br></br>
-    <h1>Paljon onnea Mikille!! Lahja tulee tilille<span role="img" aria-label="Smiley"> 😊</span> <span role="img" aria-label="Hearts">❤️</span></h1>
+    <h1>Paljon onnea Mikille!!<span role="img" aria-label="Smiley"> 😊</span> <span role="img" aria-label="Hearts">❤️</span></h1>
 
 
     <Link to="/">Back to home page</Link>
